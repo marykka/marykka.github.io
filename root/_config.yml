@@ -31,7 +31,7 @@ github_username:  marykka
 # markdown: GFM
 
 # Build settings
-theme: minima
+theme: Leap day
 plugins:
   - jekyll-feed
 
