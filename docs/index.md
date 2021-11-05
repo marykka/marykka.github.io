@@ -22,8 +22,8 @@
 ![iola](/docs/images/pythagor-project-pic-150.png)
 
 ### pythagor.io (service for automatic boosting Facebook and Instagram ads)
-**Target audience:** entrepreneurs, businesses, wanting to make their Facebook and Instagram ads more effective.
-**Role:** writer and UX writer, I came up with a name idea and representation ideas, wrote marketing copy (posts for social media, newsletters,  snippets for Google search, etc), microcopy for the alpha version of the application. 
+**Target audience:** entrepreneurs, businesses, wanting to make their Facebook and Instagram ads more effective.<br/>
+**Role:** writer and UX writer, I came up with a name idea and representation ideas, wrote marketing copy (posts for social media, newsletters,  snippets for Google search, etc), microcopy for the alpha version of the application.<br/>
 **Examples of my work:** [pythagor.io copy and microcopy](marykka.github.io/pythagor).
 
 ***
