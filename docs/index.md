@@ -1,4 +1,5 @@
-# Hi, I am Mariia Tikhomirova, UX writer, editor.
+# Hi, I am Mariia Tikhomirova,  
+UX writer, editor.
 
 **Languages:** Russian, English, German
 
