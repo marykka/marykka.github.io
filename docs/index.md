@@ -19,7 +19,7 @@
 
 ***
 
-![iola](/docs/images/pythagor-project-pic-150.png)
+![pythagor](/docs/images/pythagor-project-pic-150.png)
 
 ### pythagor.io (service for automatic boosting Facebook and Instagram ads)
 **Target audience:** entrepreneurs, businesses, wanting to make their Facebook and Instagram ads more effective.<br/>
