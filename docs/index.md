@@ -7,11 +7,11 @@
 
 **Contact:** <a href="https://www.linkedin.com/in/mariiatikhomirova/">LinkedIn</a>
 
-## Recent projects##
+## Recent projects
 
-![iola](/docs/images/iola-project-pic.jpg)
+![iola](/docs/images/iola-project-pic-150.jpg)
 
-###iola (mobile application)###
+###iola (mobile application)
 
 **Target audience:** small businesses who want an alternative to the time-consuming and expensive development of mobile applications.<br/>
 **Role:** as a lead UX writer, I created a content strategy, wrote marketing copy (posts for social media, newsletters) and microcopy.<br/>
