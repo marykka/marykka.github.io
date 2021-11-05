@@ -15,7 +15,7 @@
 
 **Target audience:** small businesses who want an alternative to the time-consuming and expensive development of mobile applications.<br/>
 **Role:** as a lead UX writer, I created a content strategy, wrote marketing copy (posts for social media, newsletters) and microcopy.<br/>
-**Examples of my work:** [iola.app copy and microcopy](marykka.github.io/iola).
+**Examples of my work:** [iola.app copy and microcopy](/iola).
 
 ***
 
@@ -24,6 +24,6 @@
 ### pythagor.io (service for automatic boosting Facebook and Instagram ads)
 **Target audience:** entrepreneurs, businesses, wanting to make their Facebook and Instagram ads more effective.<br/>
 **Role:** writer and UX writer, I came up with a name idea and representation ideas, wrote marketing copy (posts for social media, newsletters,  snippets for Google search, etc), microcopy for the alpha version of the application.<br/>
-**Examples of my work:** [pythagor.io copy and microcopy](marykka.github.io/pythagor).
+**Examples of my work:** [pythagor.io copy and microcopy](/pythagor).
 
 ***
