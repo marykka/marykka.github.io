@@ -1,4 +1,5 @@
 ---
+permalink: https://marykka.github.io
 layout: default
 ---
 
