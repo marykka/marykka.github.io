@@ -1,3 +1,7 @@
+---
+permalink: /iola.html
+---
+
 ##iola.app copy and microcopy
 
 ###Project and context
