@@ -1,5 +1,6 @@
 ---
 permalink: /about.html
+nav_order: 2
 ---
 
 # Mariia Tikhomirova
