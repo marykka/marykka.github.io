@@ -1,3 +1,7 @@
+---
+permalink: /about.html
+---
+
 # Mariia Tikhomirova
 
 Berlin-based UX writer, editor with 10+ years expirience working with different forms of a written word.
