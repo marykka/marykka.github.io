@@ -9,7 +9,7 @@
 
 ## Recent projects
 
-![iola](/docs/images/iola-project-pic-150.jpg)
+![iola](/docs/images/iola-project-pic-small.jpg)
 
 ### iola (mobile application)
 
@@ -19,7 +19,7 @@
 
 ***
 
-![pythagor](/docs/images/pythagor-project-pic-150.png)
+![pythagor](/docs/images/pythagor-project-pic-small.png)
 
 ### pythagor.io (service for automatic boosting Facebook and Instagram ads)
 **Target audience:** entrepreneurs, businesses, wanting to make their Facebook and Instagram ads more effective.<br/>
