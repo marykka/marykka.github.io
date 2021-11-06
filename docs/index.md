@@ -9,7 +9,7 @@
 
 ## Recent projects
 
-![iola](/docs/images/iola-project-pic-small.jpg)
+![iola](/docs/images/iola-project-pic.jpg)
 
 ### iola (mobile application)
 
