@@ -9,7 +9,8 @@
 
 ## Recent projects
 
-![iola](/docs/images/iola-project-pic.jpg)
+![iola](/docs/images/iola-project-pic-small.jpg)
+Format: ![iola logo](https://marykka.github.io/)
 
 ### iola (mobile application)
 
