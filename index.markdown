@@ -4,4 +4,4 @@
 
 layout: home
 ---
-Copy that works can appear as one or another thing.
+<p>Hi, I am Mariia Tikhomirova, Berlin-based UX writer. I help business to communicate with user — through text. Use my expertise in psychology to create for human-oriented interfaces copy that works. </p>
