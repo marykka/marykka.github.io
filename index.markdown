@@ -5,6 +5,8 @@
 layout: newhome
 ---
 
-Hi, I am Mariia Tikhomirova, Berlin-based UX writer. I help business to communicate with users&nbsp;— through text. Use my expertise in psychology to create for human-oriented interfaces copy that works.
+Hi, I am Mariia Tikhomirova, Berlin-based UX writer.  
+I help business to communicate with users — through text. 
+With expertise in pscychology create for human-oriented interfaces copy that works.
 
 <!-- layout: home -->
