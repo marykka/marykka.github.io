@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "pythagor.io"
-date:   2020-08-01 08:21:51 +0100
+date:   2019-08-01 08:21:51 +0100
 categories: project
 ---
 ## Project and context
