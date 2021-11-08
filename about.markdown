@@ -1,5 +1,5 @@
 ---
-layout: newhome
+layout: home
 title: About
 permalink: /about/
 ---
