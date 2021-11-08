@@ -5,25 +5,19 @@ permalink: /about/
 ---
 <p>Mariia Tikhomirova, Berlin-based UX writer.</p>
 
-<p>Languages: Russian (native speaker), English (speak and write fluently), German (telc C1 certificate).</p>
+<b>Languages:</b> Russian (native speaker), English (speak and write fluently), German (telc C1 certificate).
 
-<p>Tools and environments:
-<li>Figma to work remotely with designers</li>
-<li>Git, Github to maintain content version</li>
-<li> Asana, Trello, Github Projects to manage tasks</li>
-</p>
+<b>Tools and environments:</b>
+* Figma to work remotely together with designers
+* Git, Github to maintain content version
+* Asana, Trello, Github Projects to manage tasks
+* Visual Studio Code to create .md files
 
+<b>Recent education:</b>
+* XSOLLA Summer Technical Writing School 2021
+* Code Basics, basic course of Javascript
 
+You are welcome to contact me via [LinkedIn](https://www.linkedin.com/in/mariiatikhomirova/).
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+***
+This site is created wit GitHub Pages and Jekyll. Basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/).
