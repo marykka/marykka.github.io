@@ -4,8 +4,6 @@ title:  "pythagor.io"
 date:   2021-11-02 11:21:51 +0100
 categories: project
 ---
-# pythagor.io
-
 ## Project and context
 
 ## Team and process
