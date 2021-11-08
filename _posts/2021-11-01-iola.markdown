@@ -4,8 +4,6 @@ title:  "iola.app"
 date:   2021-11-01 11:21:51 +0100
 categories: project
 ---
-![iola project picture](/assets/iola-project-image-small.jpg)
-
 ## Project and context
 
 iola.app was created as an alternative to a long and expensive mobile development. It is a plugin for websites, built on the Oxwall platform. The idea was simple: installing one mobile application iola, users could communicate with the website's owner or with their friends from other websites, which have the iola plugin connected.
