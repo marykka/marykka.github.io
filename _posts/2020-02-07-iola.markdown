@@ -20,7 +20,9 @@ If you want to *read* the story, please check out the long version: [«UX writin
 
 ![see the list of upcoming features](/assets/iola/oxwall-store-features.png)
 
-![cron set up message](/assets/iola/oxwall-set-iola-plugin-example-publish.png) ![iola set up message](/assets/iola/oxwall-set-iola-plugin-to-publish.png)
+![cron set up message](/assets/iola/oxwall-set-iola-plugin-example-publish.png)
+
+![iola set up message](/assets/iola/oxwall-set-iola-plugin-to-publish.png)
 
 ![iola plugin call-to-action](/assets/iola/iola-wiget-updated.png width="200")
 
