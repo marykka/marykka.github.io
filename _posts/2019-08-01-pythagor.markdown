@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "pythagor.io"
+title:  "pythagor"
 date:   2019-08-01 08:21:51 +0100
 categories: project
 ---
@@ -8,7 +8,7 @@ categories: project
 
 ## Project and context
 
-Pythagor.io was supposed to be a service for automatic boosting Facebook and Instagram ads, an easy and effective way for entrepreneurs and businesses to improve their Facebook and Instagram advertising. Unfortunately at some point Facebook changed its rules the way that made further development impossible.
+Pythagor was supposed to be a service for automatic boosting Facebook and Instagram ads, an easy and effective way for entrepreneurs and businesses to improve their Facebook and Instagram advertising. Unfortunately at some point Facebook changed its rules the way that made further development impossible.
 
 ## Team and process
 
