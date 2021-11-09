@@ -9,7 +9,7 @@ permalink: /about/
 
 <b>Tools and environments:</b>
 * Figma to work remotely together with designers
-* Git, Github to maintain content version
+* Git, Github, Github Pages to maintain content versions and set up this site
 * Asana, Trello, Github Projects to manage tasks
 * Visual Studio Code to create .md files
 
