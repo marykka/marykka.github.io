@@ -24,7 +24,7 @@ If you want to *read* the story, please check out the long version: [«UX writin
 
 ![iola set up message](/assets/iola/oxwall-set-iola-plugin-to-publish.png)
 
-![iola plugin call-to-action](/assets/iola/iola-wiget-updated.png width="200")
+![iola plugin call-to-action](/assets/iola/iola-wiget-updated.png)
 
 ### Stores description, marketing deliverables
 
