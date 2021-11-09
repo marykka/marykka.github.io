@@ -4,10 +4,24 @@ title:  "Atlas Biomed"
 date:   2019-07-01 09:11:51 +0100
 categories: project
 ---
-![atlas project picture](/atlas/atlas-project-image-small.png)
+![atlas project picture](/assets/atlas-biomed.png)
 
-Atlas Biomed i a personalised health company. Atlas combines DNA and microbiome technologies with digital health data to inspire people into positive lifestyle change and lead them to a healthier future. The company pays special attention to the education of its audience.
+Atlas Biomed is a personalised health company. Atlas combines DNA and microbiome technologies with digital health data to inspire people into positive lifestyle change and lead them to a healthier future. The company pays special attention to the education of its audience.
 
-Target audience: everyone who wants to take control of the health through actionable, personalised recommendations.
+As a medical journalist I wrote articles on health and medicine and copy for marketing products. That included analyzing the up-to-date information, medical researches, taking interviews with clinicians of various specialties.
+ Here are some the examples.
 
-Roles: medical journalist (wrote articles on health and medicine, copy for marketing products); UX writer (copy and microcopy for the alpha version of customer`s account for the corporate benefits). 
+![Atlas article on Cardio Exercise Can Increase Gut Microbiome Diversity](/assets/atlas/activity-and-microbiome.png)
+[Cardio Exercise Can Increase Gut Microbiome Diversity](https://atlasbiomed.com/blog/cardio-exercise-improves-gut-microbiome-diversity/)
+
+***
+
+![Atlas article on The Gut-Brain Connection And What We Can Learn From It](/assets/atlas/brain-and-guts.png)
+[The Gut-Brain Connection And What We Can Learn From It](https://atlasbiomed.com/blog/gut-brain-connection/)
+
+***
+
+![Atlas article on Managing Your Life With Irritable Bowel Syndrome](/assets/atlas/bowel-syndrome.png)
+[Managing Your Life With Irritable Bowel Syndrome](https://atlasbiomed.com/blog/managing-your-life-with-irritable-bowel-syndrome/)
+
+***
