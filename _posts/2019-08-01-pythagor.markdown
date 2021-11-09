@@ -4,9 +4,29 @@ title:  "pythagor.io"
 date:   2019-08-01 08:21:51 +0100
 categories: project
 ---
+![pythagor facebook first post](/assets/pythagor/pythagor-landing-small-screely.png)
+
 ## Project and context
 
+Pythagor.io was supposed to be a service for automatic boosting Facebook and Instagram ads, an easy and effective way for entrepreneurs and businesses to improve their Facebook and Instagram advertising. Unfortunately at some point Facebook changed its rules the way that made further development impossible.
+
 ## Team and process
+
+As a writer and UX writer, I worked remotely with a team of designer, social media manager, developer and founder. We used Google Docs and Sheets, Trello, Figma, Tilda.
+
+I came up with a name idea and representation ideas, wrote marketing copy (posts for social media, newsletters,  snippets for Google search, etc), microcopy for the alpha version.
+
+### Marketing copy
+
+![pythagor facebook first post](/assets/pythagor/pythagor-first-screely.png)
+
+![pythagor facebook first subscription post](/assets/pythagor/pythagor-first-suscription-screely.png)
+
+![pythagor facebook early birds subscription post](/assets/pythagor/pythagor-early-birds-screely.png)
+
+![pythagor instagram motto](/assets/pythagor/pythagor-instagram-screely.png)
+
+![pythagor instagram motto](/assets/pythagor/early-birds-newsletter.png)
 
 
 <!-- You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
