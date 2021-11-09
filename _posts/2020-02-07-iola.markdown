@@ -18,6 +18,28 @@ If you want to *read* the story, please check out the long version: [«UX writin
 
 ![if you found a bug message](/assets/iola/oxwall-store-bug.png)
 
+![see the list of upcoming features](/assets/iola/oxwall-store-features.png)
+
+![cron set up message](/assets/iola/oxwall-set-iola-plugin-example-publish.png) ![iola set up message](/assets/iola/oxwall-set-iola-plugin-to-publish.png)
+
+![iola plugin call-to-action](/assets/iola/iola-wiget-updated.png)
+
+### Stores description, marketing deliverables
+
+![iola linkedIn motto](/assets/iola/iola-linkedIn-motto.png)
+
+![iola twitter motto](/assets/iola/motto-twitter.png)
+
+![iola release announcement](/assets/iola/release-announcement-twitter.png)
+
+![iola updates posts](/assets/iola/update-posts-twitter-to-publish.png)
+
+![iola oxwall description](/assets/iola/oxwall-store.png)
+
+![iola appstore description](/assets/iola/iola-app-store.png)
+
+Read more with details, task explanations and side: [«UX writing for digital products: iola app»](https://teletype.in/@jstwrtng/-t9tjh3UR).
+
 <!-- You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
