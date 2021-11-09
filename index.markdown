@@ -5,7 +5,7 @@
 layout: home
 ---
 
-Hi, I am Mariia Tikhomirova, Berlin-based UX writer.
+Hi, I am Mariia Tikhomirova, Berlin-based UX writer.  
 I help business to communicate with users through text. 
 
 I've been working with text for over a decade and have gravitated toward UX writing for about the last four years. What began as a small task of writing text for a button has evolved into a deeper knowledge of design, an empathic, people-oriented interface. Using my expertise in psychology I do my best to understand business goals, to get to know users, all that to create copy that works. Sometimes it will appear as an article, sometimes as a push notification, and sometimes even as an abscence of text.
