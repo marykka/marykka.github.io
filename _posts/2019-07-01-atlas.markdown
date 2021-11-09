@@ -4,6 +4,9 @@ title:  "Atlas Biomed"
 date:   2019-07-01 09:11:51 +0100
 categories: project
 ---
+![atlas project picture](/atlas/atlas-project-image-small.png)
+
+Atlas Biomed i a personalised health company. Atlas combines DNA and microbiome technologies with digital health data to inspire people into positive lifestyle change and lead them to a healthier future. The company pays special attention to the education of its audience.
 
 Target audience: everyone who wants to take control of the health through actionable, personalised recommendations.
 
