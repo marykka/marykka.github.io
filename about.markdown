@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<p>Mariia Tikhomirova, Berlin-based UX writer.</p>
+<p>Mariia Tikhomirova, Berlin-based UX writer, exploring docs-as-code approach.</p>
 
 <b>Languages:</b> Russian (native speaker), English (speak and write fluently), German (telc C1 certificate).
 
