@@ -18,6 +18,3 @@ permalink: /about/
 * Code Basics, basic course of Javascript
 
 You are welcome to contact me via [LinkedIn](https://www.linkedin.com/in/mariiatikhomirova/).
-
-***
-This site is created wit GitHub Pages and Jekyll. Basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/).
