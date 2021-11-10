@@ -11,7 +11,7 @@ permalink: /about/
 * Figma to work remotely together with designers
 * Git, Github, Github Pages to maintain content versions and set up this site
 * Asana, Trello, Github Projects to manage tasks
-* Visual Studio Code to create .md files
+* Google Docs, Sheets and Visual Studio Code to work with text
 
 <b>Recent education:</b>
 * XSOLLA Summer Technical Writing School 2021
