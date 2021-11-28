@@ -12,4 +12,6 @@ I've been working with text for over a decade and have gravitated toward UX writ
 
 Posts on this page show examples of my recent work.
 
-I am looking forward for a new projects in Berlin. In case you need a UX writer (and if there's any text in any of interfaces that you develop, I believe, you do), please contact me via [email](mailto:uxwrtr@gmail.com) or [LinkedIn](https://www.linkedin.com/in/mariiatikhomirova/).
+I am looking forward for a new projects in Berlin. In case you need a UX writer (and if there's any text in any of interfaces that you develop, I believe, you do), please contact me via <a href="mailto:uxwrtr@gmail.com" target="_blank">email</a> or <a href="https://www.linkedin.com/in/mariiatikhomirova/" target="_blank">LinkedIn</a>
+
+# [LinkedIn](https://www.linkedin.com/in/mariiatikhomirova/). [email](mailto:uxwrtr@gmail.com)
