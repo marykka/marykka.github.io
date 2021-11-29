@@ -17,4 +17,4 @@ permalink: /about/
 * XSOLLA Summer Technical Writing School 2021
 * Code Basics, basic course of Javascript
 
-You are welcome to contact me via [email](mailto:uxwrtr@gmail.com) or [LinkedIn](https://www.linkedin.com/in/mariiatikhomirova/).
+You are welcome to contact me via [LinkedIn](https://www.linkedin.com/in/mariiatikhomirova/) or [email](mailto:uxwrtr@gmail.com).
