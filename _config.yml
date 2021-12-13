@@ -29,8 +29,7 @@ url: "https://marykka.github.io" # the base hostname & protocol for your site, e
 linkedin_username: mariiatikhomirova
 
 # Build settings
-#theme: minima
-theme: just-the-docs
+theme: minima
 plugins:
   - jekyll-feed
 
