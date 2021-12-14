@@ -1,10 +1,16 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2021-11-04 15:15:54 +0100
-categories: jekyll update
+title:  "intrfc lab"
+date:   2021-05-01 11:21:51 +0100
+categories: project
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+As a cofounder of the project I gathered a remote team and lead the content design part; create information architecture as long as write deliverables; conduct simple user researches and Figma prototypes.
+
+## Project, context, team
+
+intrfc lab is a design collaboration. All team members work remotely. Tools: Google Docs, Figma, Affinity Designer, Notion.
+
+<!-- You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
 
@@ -26,4 +32,4 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[jekyll-talk]: https://talk.jekyllrb.com/ -->

@@ -1,0 +1,69 @@
+---
+layout: post
+title:  "iola.app"
+date:   2020-02-07 11:21:51 +0100
+categories: project
+---
+Working for a startup as a lead UX writer, I created content architecture and wrote lots of deliverables, analyzed startup's business rivals and all I could get about users.
+
+![iola project picture](/assets/iola.jpg)
+
+## Project, context, team
+
+iola.app was created as an alternative to a long and expensive mobile development. It is a plugin for websites, built on the Oxwall platform. The idea was simple: installing one mobile application iola, users could communicate with the website's owner or with their friends from other websites, which have the iola plugin connected.
+
+I worked remotely with the international team of designer and two developers. Tools: Google Docs, Trello, Invision.
+
+If you want to *read* the story, please check out the long version: [«UX writing for digital products: iola app»](https://teletype.in/@wrtng/-t9tjh3UR). Or browse some examples of copy and microcopy down here: only screenshots, no text.
+
+### System information
+
+![if you found a bug message](/assets/iola/oxwall-store-bug.png)
+
+![see the list of upcoming features](/assets/iola/oxwall-store-features.png)
+
+![cron set up message](/assets/iola/setup-cron.png)
+
+![iola set widget message](/assets/iola/set-iola-widget.png)
+
+![iola plugin call-to-action](/assets/iola/iola-wiget-updated-small.png)
+
+### Stores description, marketing deliverables
+
+![iola linkedIn motto](/assets/iola/iola-linkedIn-motto.png)
+
+![iola twitter motto](/assets/iola/motto-twitter.png)
+
+![iola release announcement](/assets/iola/release-announcement-twitter.png)
+
+![iola updates posts](/assets/iola/update-posts-twitter-to-publish.png)
+
+![iola oxwall description](/assets/iola/oxwall-store.png)
+
+![iola appstore description](/assets/iola/iola-app-store.png)
+
+![iola appstore description](/assets/iola/iola-release-letter-small.png)
+
+<!-- You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+
+Jekyll requires blog post files to be named according to the following format:
+
+`YEAR-MONTH-DAY-title.MARKUP`
+
+Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+
+Jekyll also offers powerful support for code snippets:
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/ -->
