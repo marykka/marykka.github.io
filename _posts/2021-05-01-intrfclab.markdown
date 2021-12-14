@@ -1,31 +1,14 @@
 ---
 layout: post
-title:  "pythagor"
-date:   2019-08-01 08:21:51 +0100
+title:  "intrfc lab"
+date:   2020-02-07 11:21:51 +0100
 categories: project
 ---
-As a writer and UX writer of a product on the pre-alpha stage of development, I came up with ideas for the name and tone of voice, talked to dozens of possible users and wrote many different deliverables. 
-
-![pythagor facebook first post](/assets/pythagor/pythagor-landing-small-screely.png)
+As a cofounder of the project I gathered a remote team and lead the content design part; create information architecture as long as write deliverables; conduct simple user researches and Figma prototypes.
 
 ## Project, context, team
 
-Pythagor was supposed to be a service for automatic boosting Facebook and Instagram ads, an easy and effective way for entrepreneurs and businesses to improve their Facebook and Instagram advertising. Unfortunately at some point Facebook changed its rules the way that made further development impossible.
-
-I worked remotely with a team of designer, social media manager, developer and founder. Tools: Google Docs and Sheets, Trello, Figma, Tilda.
-
-### Marketing copy
-
-![pythagor facebook first post](/assets/pythagor/pythagor-first-screely.png)
-
-![pythagor facebook first subscription post](/assets/pythagor/pythagor-first-suscription-screely.png)
-
-![pythagor facebook early birds subscription post](/assets/pythagor/pythagor-early-birds-screely.png)
-
-![pythagor instagram motto](/assets/pythagor/pythagor-instagram-screely.png)
-
-![pythagor instagram motto](/assets/pythagor/early-birds-newsletter.png)
-
+intrfc lab is a design collaboration. All team members work remotely. Tools: Google Docs, Figma, Affinity Designer, Notion.
 
 <!-- You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
