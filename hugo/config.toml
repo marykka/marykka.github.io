@@ -1,5 +1,4 @@
 baseURL = 'https://marykka.github.io/'
 languageCode = 'en-us'
 title = 'Mariia Tikhomirova, UX writer'
-theme = 'ananke'
-publishdir = 'docs'
+theme = 'ananke'`
