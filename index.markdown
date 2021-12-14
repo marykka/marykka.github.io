@@ -8,8 +8,12 @@ layout: home
 Hi, I am Mariia Tikhomirova, a Russian-born, Berlin-based UX writer.
 I help businesses to communicate with users through text.
 
-I've been working with text for over a decade and have gravitated toward UX writing for about the last four years. What began as a small task of writing text for a button has evolved into a deeper knowledge of design, an empathic, people-oriented interface. Using my expertise in psychology I do my best to understand business goals, to get to know users, all that to create copy that works. Sometimes it will appear as an article, sometimes as a push notification, and sometimes even as an abscence of text.
+To do that I ask a lot of questions to stakeholders (designers, developers, product managers, business owners, etc.) to get to know the product and who the users are, to understand business goals. I read guidelines and manuals, go through user flow together with designers in Figma, analyzing user research data wit user researchers. Keeping all that in mind, I write text. Then follow A/B tests, editing, adjusting. Iterate as needed.
 
-Posts on this page show examples of my recent work.
+I am looking forward for a new projects in Berlin. Interested and will be the most usefull when there's a need to take care of the text in the interface. After years of learning and practicing how to write well, now I learn UX design with Interaction Design Foundation and will be thrilled to apply new knowledge on practice. Even though I really enjoy creating names, writing articles or social media posts, I'd prefer to leave maybe about 10-20% of my worktime to those tasks.
 
-I am looking forward for a new projects in Berlin. In case you need a UX writer (and if there's any text in any of interfaces that you develop, I believe, you do), please contact me via [LinkedIn](https://www.linkedin.com/in/mariiatikhomirova/) or [email](mailto:uxwrtr@gmail.com).
+Better, if the development and project management processes are already set up and a UX writer position is built in — I'll catch up quickly. Remote, office or hybrid model of work. Russian (native speaker), English (speak and write fluently), German (telc C1 certificate).
+
+Healthtech, femtech, edutainment, languages — wonderful. Gambling, microfinance, real estate — thank you, but no.
+
+Let's talk about your interfaces! Ping me with [LinkedIn](https://www.linkedin.com/in/mariiatikhomirova/) or [email](mailto:uxwrtr@gmail.com).
