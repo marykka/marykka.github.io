@@ -5,14 +5,16 @@
 layout: home
 ---
 
-Hi, I am Mariia Tikhomirova, a Russian-born, Berlin-based UX writer.
-I help businesses to communicate with users through text.
+Hi, I am Mariia Tikhomirova, a Russian-born, Berlin-based UX writer. I help businesses to communicate with users through text. To do that I:
+— ask a lot of questions to stakeholders (designers, developers, product managers, business owners, etc.) to get to know the product and who the users are, to understand business goals
+— read guidelines and manuals
+— go through user flow together with designers in Figma
+— analyze user research data wit user researchers
+— keeping all that in mind, I write text. Then follow A/B tests, editing, adjusting. Iterate as needed.
 
-To do that I ask a lot of questions to stakeholders (designers, developers, product managers, business owners, etc.) to get to know the product and who the users are, to understand business goals. I read guidelines and manuals, go through user flow together with designers in Figma, analyzing user research data wit user researchers. Keeping all that in mind, I write text. Then follow A/B tests, editing, adjusting. Iterate as needed.
+I am looking forward for a new projects in Berlin. Interested and will be the most usefull when there's a need to take care of the text in the interface. Better, if the development and project management processes are already set up and a UX writer position is built in — I'll catch up quickly.
 
-I am looking forward for a new projects in Berlin. Interested and will be the most usefull when there's a need to take care of the text in the interface. After years of learning and practicing how to write well, now I learn UX design with Interaction Design Foundation and will be thrilled to apply new knowledge on practice. Even though I really enjoy creating names, writing articles or social media posts, I'd prefer to leave maybe about 10-20% of my worktime to those tasks.
-
-Better, if the development and project management processes are already set up and a UX writer position is built in — I'll catch up quickly. Remote, office or hybrid model of work. Russian (native speaker), English (speak and write fluently), German (telc C1 certificate).
+Remote, office or hybrid model of work. Russian (native speaker), English (speak and write fluently), German (telc C1 certificate).
 
 Healthtech, femtech, edutainment, languages — wonderful. Gambling, microfinance, real estate — thank you, but no.
 
