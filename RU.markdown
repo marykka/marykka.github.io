@@ -6,17 +6,21 @@ title: "RU"
 permalink: /RU/
 ---
 
-Hi, I am Mariia Tikhomirova, a Russian-born, Berlin-based UX writer. I help businesses to communicate with users through text. To do that I:
-- ask a lot of questions to stakeholders (designers, developers, product managers, business owners, etc.) to get to know the product and who the users are, to understand business goals
-- read guidelines and manuals
-- go through user flow together with designers in Figma
-- analyze user research data wit user researchers
-- keeping all that in mind, I write text. Then follow A/B tests, editing, adjusting. Iterate as needed.
+Мария Тихомирова
+UX-писательница
 
-I am looking forward for a new projects in Berlin. Interested and will be the most usefull when there's a need to take care of the text in the interface. Better, if the development and project management processes are already set up and a UX writer position is built in — I'll catch up quickly.
+Помогаю бизнесу общаться с клиентами через текст в интерфейсе.
 
-Remote, office or hybrid model of work. Russian (native speaker), English (speak and write fluently), German (telc C1 certificate).
+Чтобы это делать, я:
+- задаю много вопросов всем, кто принимает решения по продукту (дизайнерам, разработчикам, продакт-менеджерам, владельцам бизнеса),
+- разбираюсь в продукте, анализирую бизнес-цели,
+- читаю гайдлайны и мануалы (если они есть),
+- работаю над макетами в Фигме вместе с дизайнерами,
+- изучаю результаты исследований вместе с UX-исследователями,
+- имея всё это в виду, пишу текст. Потом проводим A/B тесты,редактируем, улучшаем. Повторить сколько нужно.
 
-Healthtech, femtech, edutainment, languages — wonderful. Gambling, microfinance, real estate — thank you, but no.
+Я ищу работу в Берлине. Буду полезна там, где нужен человек, отвечающий за текст в интерфейсе. Медицинские компании и забота о здоровье, фемтех, образование и эдьютейнмент, обучение языкам — класс, мне очень интересно. Азартные игры, микрофинансы, недвижимость — спасибо, нет.
 
-Let's talk about your interfaces! Ping me with [LinkedIn](https://www.linkedin.com/in/mariiatikhomirova/) or [email](mailto:uxwrtr@gmail.com).
+Мне комфортно работать удалённо, но я не против офиса или гибридного режима. Работаю на русском (носительница языка), английском (говорю и пишу свободно). Разговариваю на немецком ( сдала экзамен telc C1, но пока не готова работать на немецком).
+
+Мои контакты: [ЛинкедИн](https://www.linkedin.com/in/mariiatikhomirova/), [почта](mailto:uxwrtr@gmail.com).
