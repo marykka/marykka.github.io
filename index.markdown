@@ -5,7 +5,9 @@
 layout: home
 ---
 
-Hi, I am Mariia Tikhomirova, a Russian-born, Berlin-based UX writer. I help businesses to communicate with users through text. To do that I:
+Hi, I am Mariia Tikhomirova, a Russian-born, Berlin-based UX writer. I help businesses to communicate with users through text.
+
+To do that I:
 - ask a lot of questions to stakeholders (designers, developers, product managers, business owners, etc.) to get to know the product and who the users are, to understand business goals
 - read guidelines and manuals
 - go through user flow together with designers in Figma
