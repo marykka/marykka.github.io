@@ -14,10 +14,8 @@ To do that I:
 - analyze user research data wit user researchers
 - keeping all that in mind, I write text. Then follow A/B tests, editing, adjusting. Iterate as needed.
 
-I am looking forward for a new projects in Berlin. Interested and will be the most usefull when there's a need to take care of the text in the interface.
+I am looking forward for a new projects in Berlin. Interested and will be the most usefull when there's a need to take care of the text in the interface. Healthtech, femtech, edutainment, languages — wonderful. Gambling, microfinance, real estate — thank you, but no.
 
 Remote, office or hybrid model of work. Russian (native speaker), English (speak and write fluently), German (telc C1 certificate).
-
-Healthtech, femtech, edutainment, languages — wonderful. Gambling, microfinance, real estate — thank you, but no.
 
 Let's have a talk! Ping me with [LinkedIn](https://www.linkedin.com/in/mariiatikhomirova/) or [email](mailto:uxwrtr@gmail.com).
