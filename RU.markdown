@@ -2,7 +2,8 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
-title: "RU"
+title: "UX портфолио"
+permalink: /RU/
 ---
 
 Hi, I am Mariia Tikhomirova, a Russian-born, Berlin-based UX writer. I help businesses to communicate with users through text. To do that I:
