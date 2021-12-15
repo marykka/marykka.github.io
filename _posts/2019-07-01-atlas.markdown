@@ -2,7 +2,7 @@
 layout: post
 title:  "Atlas Biomed"
 date:   2019-07-01 09:11:51 +0100
-categories: project
+# categories: project
 ---
 Interviewed neuroendocrinologist, cardiologist, gastroenterologists, geneticists; analyzed scientific papers and studies; translated from Russian to English and vice versa. Together with a team created a project that was presented on Yandex Conference.
 

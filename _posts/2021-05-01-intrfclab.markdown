@@ -2,7 +2,7 @@
 layout: post
 title:  "intrfc lab"
 date:   2021-05-01 11:21:51 +0100
-categories: project
+# categories: project
 ---
 As a cofounder of the project I gathered a remote team and lead the content design part; create information architecture as long as write deliverables; conduct simple user researches and Figma prototypes.
 
