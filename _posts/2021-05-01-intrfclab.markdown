@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "intrfc lab"
+title:  "All kind of content design for the freelance creative collaboration"
 date:   2021-05-01 11:21:51 +0100
 # categories: project
 ---
-As a cofounder of the project I gathered a remote team and lead the content design part; create information architecture as long as write deliverables; conduct simple user researches and Figma prototypes.
+Lead the content design creation; create information architecture and write deliverables as well; conduct simple user researches and Figma prototypes.
 
 ## Project, context, team
 

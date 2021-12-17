@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Atlas Biomed"
+title:  "Articles on health, edutainment things, UX copy for the international personalized health company "
 date:   2019-07-01 09:11:51 +0100
 # categories: project
 ---

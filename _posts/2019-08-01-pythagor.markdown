@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "pythagor"
+title:  "Name, ads, posts for a a product on the pre-alpha stage of development"
 date:   2019-08-01 08:21:51 +0100
 # categories: project
 ---
-As a writer and UX writer of a product on the pre-alpha stage of development, I came up with ideas for the name and tone of voice, talked to dozens of possible users and wrote many different deliverables. 
+Came up with ideas for the name and tone of voice, talked to dozens of possible users and wrote many different deliverables. 
 
 ![pythagor facebook first post](/assets/pythagor/pythagor-landing-small-screely.png)
 
