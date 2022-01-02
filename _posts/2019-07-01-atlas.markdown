@@ -4,7 +4,7 @@ title:  "Articles on health, edutainment things, UX copy for the international p
 date:   2019-07-01 09:11:51 +0100
 # categories: project
 ---
-Interviewed neuroendocrinologist, cardiologist, gastroenterologists, geneticists; analyzed scientific papers and studies; translated from Russian to English and vice versa. Together with a team created a project that was presented on Yandex Conference.
+Interviewed neuroendocrinologist, cardiologist, gastroenterologists, geneticists; analyzed scientific papers and studies; translated from Russian to English and vice versa. Together with a team created a project that was presented on Yandex Conference and got >2000 participants.
 
 ![atlas project picture](/assets/atlas-biomed.png)
 
