@@ -4,7 +4,7 @@ title:  "Content starter kit for a startup"
 date:   2020-02-07 11:21:51 +0100
 # categories: project
 ---
-Working for a startup as a lead UX writer, I created content architecture and wrote lots of deliverables, analyzed startup's business rivals and all I could get about users.
+Created content architecture and wrote lots of deliverables.
 
 ![iola project picture](/assets/iola.jpg)
 
