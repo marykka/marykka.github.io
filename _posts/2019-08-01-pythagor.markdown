@@ -1,5 +1,5 @@
 ---
-layout: post
+# layout: post
 title:  "Name, ads, posts for a a product on the pre-alpha stage of development"
 date:   2019-08-01 08:21:51 +0100
 # categories: project

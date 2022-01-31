@@ -1,5 +1,5 @@
 ---
-layout: post
+# layout: post
 title:  "Content starter kit for a startup"
 date:   2020-02-07 11:21:51 +0100
 # categories: project

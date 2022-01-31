@@ -1,5 +1,5 @@
 ---
-layout: post
+# layout: post
 title:  "All kind of content design for the freelance creative collaboration"
 date:   2021-05-01 11:21:51 +0100
 # categories: project
